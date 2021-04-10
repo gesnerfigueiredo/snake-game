@@ -1,9 +1,9 @@
-```
 # Recriando o Jogo da Cobrinha
 
-Recriado o Jogo da Cobrinha utilizando HTML, CSS e JavaScript.
+ Recriado o Jogo da Cobrinha utilizando HTML, CSS e JavaScript.
 
-Projeto realizado no Bootcamp HTML Developer - Digital Innovation One.
+ Projeto realizado no Bootcamp HTML Developer - Digital Innovation One.
+
 
 
 ### Tecnologias
@@ -20,4 +20,3 @@ Projeto realizado no Bootcamp HTML Developer - Digital Innovation One.
  ![Netflix](https://i.imgur.com/pLfAqIi.png)
  
  </div>
-```
